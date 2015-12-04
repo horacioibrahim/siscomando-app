@@ -4,7 +4,7 @@
             {
               "announcer": "horacio.moreira",
               "timestamp": 1447183050,
-              "body": "Precisamos atualizar urgentemente o Siscomando",
+              "body": "Precisamos atualizar **urgentemente** o Siscomando",
               "has_avatar": true,
               "image": "https://randomuser.me/api/portraits/thumb/men/78.jpg",
               "target": "2015RI/00000045"
@@ -12,7 +12,7 @@
             {
               "announcer": "marta.suply",
               "timestamp": 1447183053,
-              "body": "Problemas de lentidão no e-social. ",
+              "body": "> Problemas de *lentidão* no e-social. ",
               "has_avatar": true,
               "image": "https://randomuser.me/api/portraits/thumb/women/88.jpg",
               "target": "2015RDP/00000005"
@@ -39,7 +39,8 @@
               "body": "O chamado foi encaminhado para a SUPOP. Já tá na mão do responsável.",
               "has_avatar": true,
               "image": "https://randomuser.me/api/portraits/thumb/women/1.jpg",
-              "target": "2015RDP/00000005"
+              "target": "2015RDP/00000005",
+              "continued": true
             },
             {
               "announcer": "marta.suply",

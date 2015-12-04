@@ -12,7 +12,7 @@
             {
               "announcer": "marta.suply",
               "timestamp": 1447183053,
-              "body": "Problemas de lentidão no e-social. ",
+              "body": "**Problemas** de lentidão no e-social. ",
               "has_avatar": true,
               "image": "https://randomuser.me/api/portraits/thumb/women/88.jpg",
               "target": "2015RDP/00000005"
@@ -20,7 +20,7 @@
             {
               "announcer": "presaclicked",
               "timestamp": 1447183056,
-              "body": "Expresso Serpro com lentidão no acesso Web.",
+              "body": "> Expresso Serpro com lentidão no acesso Web.",
               "has_avatar": true,
               "image": "https://randomuser.me/api/portraits/thumb/women/35.jpg",
               "target": "2015RI/00000145"
